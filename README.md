@@ -19,7 +19,7 @@ This project consists of a backend service built with Node.js and Express.js, an
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Mahmoudhmad/cole-mahmoud-hamad-task.git
+git clone https://github.com/Mahmoudhmad/calo-mahmoud-hamad-task.git
 ```
 
 ### Step 1: Installation
