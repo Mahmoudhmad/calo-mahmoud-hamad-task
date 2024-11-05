@@ -52,6 +52,7 @@ UNSPLASH_APPLICATION_ID=672298
 
 <!-- Estimated Spent Time -->
 
+```bash
 POST on /jobs to create a new job and return its ID to the client: 30 minutes
 GET on /jobs to return a list of jobs, with status or result: 15 minutes
 GET on /jobs/{jobId} to return the specific job’s status or result: 15 minutes
@@ -60,3 +61,5 @@ Add functionality to create a new job from the client: 5 minutes
 Client should fetch and display job results as soon as resolved: 10 minutes
 Implement delayed execution for job (random delay 5 seconds to 5 minutes): 10 minutes
 Total Estimated Time: ~2 hours
+
+```
