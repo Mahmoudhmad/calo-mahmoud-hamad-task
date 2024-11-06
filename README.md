@@ -1,4 +1,4 @@
-# Next.js & Node.js/Express.js Job Queue Application
+# Next.js & Node.js/Express.js Job Application
 
 This project consists of a backend service built with Node.js and Express.js, and a frontend client using Next.js. The application allows users to create "job" requests, which retrieve a random image from Unsplash's food category with a delayed execution. The client interface displays the job status and results when available.
 
